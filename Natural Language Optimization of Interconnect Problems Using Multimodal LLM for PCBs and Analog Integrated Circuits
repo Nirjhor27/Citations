@@ -29,3 +29,9 @@ Haoxing Ren. Chipnemo: Domain-adapted llms for chip design, 2024.
 
 [6] Nirjhor Rouf, Fin Amin, Paul D. Franzon. "Can Low Rank Knowledge 
 Distillation be Useful for Microelectronics Reasoning?", LAD, 2024
+
+[7] Song Han, Jeff Pool, John Tran, William J. Dally. "Learning both Weights 
+and Connections for Efficient Neural Networks", Neurips, 2015
+
+[8] Yunchao Gong, Liu Liu, Ming Yang, Lubomir Bourdev. "COMPRESSING DEEP 
+CONVOLUTIONAL NETWORKS USING VECTOR QUANTIZATION", arxiv, 2014
