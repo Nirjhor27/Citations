@@ -35,3 +35,10 @@ and Connections for Efficient Neural Networks", Neurips, 2015
 
 [8] Yunchao Gong, Liu Liu, Ming Yang, Lubomir Bourdev. "COMPRESSING DEEP 
 CONVOLUTIONAL NETWORKS USING VECTOR QUANTIZATION", arxiv, 2014
+
+[9] Jason Wei, Zuezhi Wang, Dale Schuurmans, Maarten Bosma, Brian Ichter, 
+Fei Xia, Ed H. Chi, Quoc V. Le, Denny Zhou. "Chain-of-Thought Prompting 
+Elicits Reasoning in Large Language Models", Neurips, 2022.
+
+[10] Xiao Yu, Baolin Peng, Michel Galley, Jianfeng Gao, Zhou Yu. "Teaching 
+Language Models to Self-Improve through Interactive Demonstrations", arxiv, 2023
