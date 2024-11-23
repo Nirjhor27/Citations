@@ -1,0 +1,38 @@
+References:
+[1] Jason Blocklove, Siddharth Garg, Ramesh Karri, and Hammond Pearce.
+Chip-chat: Challenges and opportunities in conversational hardware
+design. In 2023 ACM/IEEE 5th Workshop on Machine Learning for
+CAD (MLCAD), pages 1–6. IEEE, 2023.
+
+[2] Zhuolun He, Haoyuan Wu, Xinyun Zhang, Xufeng Yao, Su Zheng,
+Haisheng Zheng, and Bei Yu. Chateda: A large language model powered
+autonomous agent for eda, 2024.
+
+[3] Geoffrey Hinton, Oriol Vinyals, and Jeff Dean. Distilling the knowledge
+in a neural network, 2015.
+
+[4] Edward J Hu, Yelong Shen, Phillip Wallis, Zeyuan Allen-Zhu, Yuanzhi
+Li, Shean Wang, Lu Wang, and Weizhu Chen. Lora: Low-rank
+adaptation of large language models. arXiv preprint arXiv:2106.09685,
+2021.
+
+[5] Mingjie Liu, Teodor-Dumitru Ene, Robert Kirby, Chris Cheng, Nathaniel
+Pinckney, Rongjian Liang, Jonah Alben, Himyanshu Anand, Sanmitra
+Banerjee, Ismet Bayraktaroglu, Bonita Bhaskaran, Bryan Catanzaro,
+Arjun Chaudhuri, Sharon Clay, Bill Dally, Laura Dang, Parikshit Desh-
+pande, Siddhanth Dhodhi, Sameer Halepete, Eric Hill, Jiashang Hu,
+Sumit Jain, Ankit Jindal, Brucek Khailany, George Kokai, Kishor Kunal,
+Xiaowei Li, Charley Lind, Hao Liu, Stuart Oberman, Sujeet Omar,
+Sreedhar Pratty, Jonathan Raiman, Ambar Sarkar, Zhengjiang Shao,
+Hanfei Sun, Pratik P Suthar, Varun Tej, Walker Turner, Kaizhe Xu, and
+Haoxing Ren. Chipnemo: Domain-adapted llms for chip design, 2024.
+
+[6] Nirjhor Rouf, Fin Amin, Paul D. Franzon. "Can Low Rank Knowledge 
+Distillation be Useful for Microelectronics Reasoning?", LAD, 2024.
+
+[7] Jason Wei, Zuezhi Wang, Dale Schuurmans, Maarten Bosma, Brian Ichter, 
+Fei Xia, Ed H. Chi, Quoc V. Le, Denny Zhou. "Chain-of-Thought Prompting 
+Elicits Reasoning in Large Language Models", Neurips, 2022.
+
+[8] Xiao Yu, Baolin Peng, Michel Galley, Jianfeng Gao, Zhou Yu. "Teaching 
+Language Models to Self-Improve through Interactive Demonstrations", arxiv, 2023
