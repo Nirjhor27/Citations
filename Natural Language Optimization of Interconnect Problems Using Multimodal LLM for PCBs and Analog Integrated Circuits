@@ -2,19 +2,19 @@ References:
 [1] Jason Blocklove, Siddharth Garg, Ramesh Karri, and Hammond Pearce.
 Chip-chat: Challenges and opportunities in conversational hardware
 design. In 2023 ACM/IEEE 5th Workshop on Machine Learning for
-CAD (MLCAD), pages 1–6. IEEE, 2023.
+CAD (MLCAD), pages 1–6. IEEE, 2023
 
 [2] Zhuolun He, Haoyuan Wu, Xinyun Zhang, Xufeng Yao, Su Zheng,
 Haisheng Zheng, and Bei Yu. Chateda: A large language model powered
-autonomous agent for eda, 2024.
+autonomous agent for eda, 2024
 
 [3] Geoffrey Hinton, Oriol Vinyals, and Jeff Dean. Distilling the knowledge
-in a neural network, 2015.
+in a neural network, 2015
 
 [4] Edward J Hu, Yelong Shen, Phillip Wallis, Zeyuan Allen-Zhu, Yuanzhi
 Li, Shean Wang, Lu Wang, and Weizhu Chen. Lora: Low-rank
 adaptation of large language models. arXiv preprint arXiv:2106.09685,
-2021.
+2021
 
 [5] Mingjie Liu, Teodor-Dumitru Ene, Robert Kirby, Chris Cheng, Nathaniel
 Pinckney, Rongjian Liang, Jonah Alben, Himyanshu Anand, Sanmitra
@@ -25,7 +25,7 @@ Sumit Jain, Ankit Jindal, Brucek Khailany, George Kokai, Kishor Kunal,
 Xiaowei Li, Charley Lind, Hao Liu, Stuart Oberman, Sujeet Omar,
 Sreedhar Pratty, Jonathan Raiman, Ambar Sarkar, Zhengjiang Shao,
 Hanfei Sun, Pratik P Suthar, Varun Tej, Walker Turner, Kaizhe Xu, and
-Haoxing Ren. Chipnemo: Domain-adapted llms for chip design, 2024.
+Haoxing Ren. Chipnemo: Domain-adapted llms for chip design, 2024
 
 [6] Nirjhor Rouf, Fin Amin, Paul D. Franzon. "Can Low Rank Knowledge 
 Distillation be Useful for Microelectronics Reasoning?", LAD, 2024
@@ -38,7 +38,7 @@ CONVOLUTIONAL NETWORKS USING VECTOR QUANTIZATION", arxiv, 2014
 
 [9] Jason Wei, Zuezhi Wang, Dale Schuurmans, Maarten Bosma, Brian Ichter, 
 Fei Xia, Ed H. Chi, Quoc V. Le, Denny Zhou. "Chain-of-Thought Prompting 
-Elicits Reasoning in Large Language Models", Neurips, 2022.
+Elicits Reasoning in Large Language Models", Neurips, 2022
 
 [10] Xiao Yu, Baolin Peng, Michel Galley, Jianfeng Gao, Zhou Yu. "Teaching 
 Language Models to Self-Improve through Interactive Demonstrations", arxiv, 2023
@@ -55,4 +55,55 @@ Alec Radford, Matthew Knight, Miles Brundage, Mira Murati, Katie Mayer, Peter We
 Bob McGrew, Dario Amodei, Sam McCandlish, Ilya Sutskever, Wojciech Zaremba.
 "Evaluating Large Language Models Trained on Code", arxiv, 2021
 
+[12] Kangwei Xu, Grace Li Zhang, Xunzhao Yin, Cheng Zhuo, Ulf Schlichtmann, Bing Li. 
+"Automated C/C++ Program Repair for High-Level Synthesis via Large Language Models", MLCAD, 2024
 
+[13] Xiao Yu, Baolin Peng, Michel Galley, Jianfeng Gao, Zhou Yu.
+"Teaching Language Models to Self-Improve through Interactive Demonstrations", arxiv, 2024
+
+[14] Jason Wei, Xuezhi Wang, Dale Schuurmans, Maarten Bosma, Brian Ichter, Fei Xia, Ed H. Chi, 
+Quoc V. Le, Denny Zhou. "Chain-of-Thought Prompting Elicits Reasoning in Large Language Models", arxiv, 2023
+
+[15] Hammond Pearce, Benjamin Tan, Ramesh Karri. "DAVE: Deriving Automatically Verilog from English", MLCAD, 2020
+
+[16] Ruidi Qiu, Grace Li Zhang, Rolf Drechsler, Ulf Schlichtmann, Bing Li. "AutoBench: Automatic Testbench 
+Generation and Evaluation Using LLMs for HDL Design", MLCAD, 2024
+
+[17] Utsav Sharma, Bing-Yue Wu, Sai Rahul Dhanvi Kankipati, Vidya A. Chhabria, Austin Rovinski.
+"OpenROAD-Assistant: An Open-Source Large Language Model for Physical Design Tasks", MLCAD, 2024
+
+[18] Andre Nakkab, Sai Qian Zhang, Ramesh Karri, Siddharth Garg. "Rome was Not Built in a Single Step: 
+Hierarchical Prompting for LLM-based Chip Design", MLCAD, 2024
+
+[19] Prashanth Vijayaraghavan, Apoorva Nitsure, Charles Mackin, Luyao Shi, Stefano Ambrogio, Arvind Haran,
+Viresh Paruthi, Ali Elzein, Dan Coops, David Beymer, Ehsan Degan. "Chain-of-Descriptions: Improving Code LLMs 
+for VHDL Code Generation and Summarization", MLCAD, 2024
+
+[20] Sam-Zaak Wong, Gwok-Waa Wan, Dongping Liu, Xi Wang. "VGV: Verilog Generation using Visual Capabilities
+of Multi-Modal Large Language Models", LAD, 2024
+
+[21] Shang Liu, Wenji Fang, Yao Lu, Jing Wang, Qijun Zhang, Hongce Zhang, Zhiyao Xie."RTLCoder: Fully Open-Source and 
+Efficient LLM-Assisted RTL Code Generation Technique", LAD, 2024
+
+[22] Yongan Zhang, Zhongzhi Yu, Yonggan Fu, Cheng Wan, Yingyan (Celine) Lin. "MG-Verilog: Multi-grained Dataset Towards 
+Enhanced LLM-assisted Verilog Generation", LAD, 2024
+
+[23] Haocheng Xu, Haotian Hu, Sitao Huang. "Optimizing High-Level Synthesis Designs with Retrieval-Augmented Large 
+Language Models", LAD, 2024
+
+[24] Bardia Nadimi, Hao Zheng. "A Multi-Expert Large Language Model Architecture for Verilog Code Generation", LAD, 2024
+
+[25] Khushboo Qayyum, Muhammad Hassan, Sallar Ahmadi-Pour, Chandan Kumar Jha, Rolf Drechsler. "From Bugs to Fixes: HDL Bug 
+Identification and Patching using LLMs and RAG", LAD, 2024
+
+[26] Prashanth Vijayaraghavan, Luyao Shi, Ehsan Degan, Xin Zhang. "CIRCUITSYNTH: Leveraging Large Language Models for Circuit 
+Topology Synthesis", LAD, 2024
+
+[27] Bingyang Liu, Haoyi zhang, Xiaohan Gao, Zichen Kong, Xiyuan Tang, Yibo Lin, Runsheng Wang, Ru Huang. "LayoutCopilot: An 
+LLM-powered Multi-agent Collaborative Framework for Interactive Analog Layout Design", arxiv, 2024
+
+[28] Guojin Chen, Keren Zhu, Seunggeun Kim, Hanqing Zhu, Yao Lai, Bei Yu, David Z. Pan. LLM-Enhanced Bayesian Optimization for 
+Efficient Analog Layout Constraint Generation", arxiv, 2024
+
+[29] Chen-Chia Chang, Yikang Shen, Shaoze Fan, Jing Li, Shun Zhang, Ningyuan Cao, Yiran Chen, Xin Zhang. "LaMAGIC: Language-Model-based 
+Topology Generation for Analog Integrated Circuits", arxiv, 2024
